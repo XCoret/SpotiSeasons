@@ -2,7 +2,7 @@
 # SpotiSeasons
 
 <p align="center">
-  <img src="./spotiSeasons.png" alt="SpotiSeasons Logo" max-width="150"/>
+  <img src="https://github.com/XCoret/SpotiSeasons/blob/master/SpotiSeasons.png" alt="SpotiSeasons Logo" max-width="150"/>
 </p>
 
 ## Spotify Liked Tracks Organizer
